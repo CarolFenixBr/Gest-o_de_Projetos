@@ -1,2 +1,2 @@
-# Gest-o_de_Projetos
+# Gestão de Projetos
 Atividade prática na disciplina de gestão de projetos
